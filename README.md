@@ -1,10 +1,10 @@
 # Mastering Algorithms and Data Structures
 
-Welcome to the **DM Tech Interview Prep**, a comprehensive GitHub repository dedicated to providing high-quality solutions to LeetCode problems and other essential algorithm and data structure concepts. This repository is specifically tailored for individuals preparing for technical interviews in the software industry, aiming to help you sharpen your problem-solving skills and ace those interviews with confidence.
+Welcome to the **DM Tech Interview Prep**, a comprehensive GitHub repository dedicated to providing high-quality solutions to Algorithms and Datastructures related problems and concepts. This repository is specifically tailored for individuals preparing for technical interviews in the software industry, aiming to help you sharpen your problem-solving skills and ace those interviews with confidence.
 
 ## Features:
 
-* Comprehensive solutions to a wide variety of LeetCode problems, including explanations and optimizations.
+* Comprehensive solutions to a wide variety of Algorithms and Datastructures related problems, including explanations and optimizations.
 * Curated list of common algorithms and data structures, complete with explanations, code snippets, and complexity analysis.
 * Categorized problems based on difficulty levels (easy, medium, and hard) to help you track your progress and focus on areas that need improvement.
 * Regularly updated with new problems and solutions to keep you up-to-date with the latest trends in the software industry.
